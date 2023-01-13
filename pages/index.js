@@ -9,7 +9,7 @@ const HomePage = () => {
       <section id="about" className="mb-12">
         <h2 className="text-2xl font-medium mb-4">About Me</h2>
         <p className="text-sm leading-loose">
-          Meet Erik Vacev, an amateur photographer with a passion for capturing the beauty of nature and landscapes. His love for photography began at a young age and has grown over the years, as he traveled to different places and captured breathtaking images. Erik's attention to detail and his ability to capture the essence of a place make his photographs stand out. He mostly takes pictures of landscapes and nature, but occasionally he does portraits. He believes that every picture tells a story and he wants to share his stories with the world. He is always looking for new and exciting places to photograph, and he hopes to inspire others to see the world in a new way through his work.
+          Meet Erik Vacev, an amateur photographer with a passion for capturing the beauty of nature and landscapes. His love for photography began at a young age and has grown over the years, as he traveled to different places and captured breathtaking images. Erik&apos;s attention to detail and his ability to capture the essence of a place make his photographs stand out. He mostly takes pictures of landscapes and nature, but occasionally he does portraits. He believes that every picture tells a story and he wants to share his stories with the world. He is always looking for new and exciting places to photograph, and he hopes to inspire others to see the world in a new way through his work.
         </p>
       </section>
       <section id="projects" className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
